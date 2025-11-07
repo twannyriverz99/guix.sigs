@@ -19,3 +19,4 @@ b1efea36b39128fff0cad69eadb4837b5ed8a68f4a9c1d8fa6af20b7595f67e4  bitcoin-29.0rc
 0810f7184215bebbb543f22e04e38b59ba8ab42557dc4ff0fe0665b265224121  bitcoin-29.0rc3-win64-debug.zip
 5ea548e5bf98a7773c871d3d0cbe7b69ca4646306cd704b1891e6c619ced8e62  bitcoin-29.0rc3-win64-setup-unsigned.exe
 2779e784b69f8a1a7dbd7dccb1eef790f976937cdd63c507d2b2756752f13ec3  bitcoin-29.0rc3-win64-unsigned.zip
+sudo apt install hash
